@@ -1,4 +1,3 @@
-
 +++
 title = "3D image registration with procrustes analysis"  
 
