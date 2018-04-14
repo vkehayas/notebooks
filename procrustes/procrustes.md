@@ -9,6 +9,9 @@ tags = ["MATLAB", "image-analysis", "spines", "neuroscience", "image-registratio
 summary = "Pair-wise linear transformation based on feature coordinates"  
 abstract = "Pair-wise linear transformation based on feature coordinates"  
 
+[author]
+name: "Vassilis Kehayas"
+
 [header]  
 image = "procrustes/dendritic_spines_short.gif"  
 caption = ""  
@@ -256,7 +259,7 @@ Let's now plot again the coordinates for spines from the first session and our n
 
 
 ```matlab
-figure; hold on;
+figure(); hold on;
 plot3(X1, Y1, Z1, 'ko', 'MarkerFaceColor', 'k')
 plot3(X2, Y2, Z2, 'ro', 'MarkerFaceColor', 'r')
 plot3(N(:,1), N(:,2), N(:,3), 'bo', 'MarkerFaceColor', 'b')
