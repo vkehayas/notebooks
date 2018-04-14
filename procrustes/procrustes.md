@@ -321,3 +321,13 @@ we could take into account information from all sessions.
 For example, in generalized procrustes analysis 
 the reference is chosen as an optimally determined "mean" shape.
 Such functionality is already implemented in the R package [shapes](https://cran.r-project.org/web/packages/shapes/shapes.pdf).
+
+<div align="left">
+  <sub>
+    The source files for this post can be found in
+    <a href="https://gitlab.com/vkehayas/notebooks/tree/master/procrustes">
+      https://gitlab.com/vkehayas/notebooks/tree/master/procrustes</a>.
+  </sub>
+</div>  
+
+<br>
