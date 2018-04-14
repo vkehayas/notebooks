@@ -9,7 +9,7 @@ summary = "Pair-wise linear transformation based on feature coordinates"
 abstract = "Pair-wise linear transformation based on feature coordinates"  
 
 [author]
-name: "Vassilis Kehayas"
+name = "Vassilis Kehayas"
 
 [header]  
 image = "procrustes/dendritic_spines_short.gif"  
