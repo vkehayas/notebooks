@@ -6,7 +6,7 @@
 % +++
 % title = "3D image registration with procrustes analysis"  
 % 
-% date = 2018-04-14  
+% date = 2018-04-15  
 % draft = false  
 % 
 % tags = ["MATLAB", "image-analysis", "spines", "neuroscience", "image-registration"]  
