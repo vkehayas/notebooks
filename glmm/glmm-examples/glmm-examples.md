@@ -608,7 +608,7 @@ especially for interval estimates such as confidence intervals.[^1]
 # Poisson regression
 
 A better approach is to use a GLM that natively incorporates 
-the structure of of the data at hand.
+the structure of the data at hand.
 Since our response variable consists of counts of a process,
 the number of spikes per trial,
 the Poisson distribution is a natural fit (pun intended).
