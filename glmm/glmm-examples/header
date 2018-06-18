@@ -1,0 +1,21 @@
++++
+title = "Linear models, part II: Examples with R"
+
+date = 2018-06-18
+lastmod = 2018-06-18
+draft = false
+
+tags = ["statistics", "regression", "mixed_model", "rstats"]
+summary = "Linear model examples with R"
+abstract = "Linear model examples with R"
+
+[author]
+name = "Vassilis Kehayas"
+
+[header]
+image = "glmm-examples/glm3_diagnostics-1.png"
+caption = ""
+preview = true
+description = ""
+
++++
