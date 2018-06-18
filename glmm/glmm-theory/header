@@ -1,0 +1,21 @@
++++
+title = "Linear models, Part I: Theory"
+
+date = 2018-06-17
+lastmod = 2018-06-17
+draft = false
+
+tags = ["statistics", "regression", "mixed_model"]
+summary = "A brief introduction into the theory behind linear models, including linear mixed-effects models and generalized linear (mixed) models"
+abstract = "A brief introduction into the theory behind linear models, including linear mixed-effects models and generalized linear (mixed) models"
+
+[author]
+name = "Vassilis Kehayas"
+
+[header]
+image = ""
+caption = ""
+preview = true
+description = ""
+
++++
